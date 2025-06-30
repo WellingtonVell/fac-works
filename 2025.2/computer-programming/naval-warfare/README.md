@@ -1,0 +1,1 @@
+cd 2025.2/computer-programming/naval-warfare && gcc solve.c

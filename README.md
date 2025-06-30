@@ -20,3 +20,4 @@ O repositório está organizado em uma estrutura hierárquica de pastas:
 Cada projeto contém:
 - `problem.md` - Descrição do problema
 - `solve.c` - Solução implementada
+- `README.md` - Comando de terminal para execução
