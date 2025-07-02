@@ -1,1 +1,1 @@
-cd 2025.2/computer-programming/naval-warfare && gcc solve.c
+cd 2025.2/computer-programming/super-trump-cards && gcc solve.c
